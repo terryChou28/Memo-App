@@ -1,8 +1,9 @@
 # Memo Web App
 
 ## What will the application do?
-![](memo.gif)
+![add](memo2.gif)
 - The application allows the user to choose between a to-watch movie list or a watched movie list. After selecting a list, the user can add an arbitrary number of movies to the list, remove the added movies, view the list, rate the movies, and the app also tells the user which movie has the highest approval rating on the list.
+![delete](memo2.gif)
 
 ## Who will use it?
 - Any user who loves watching movies!
