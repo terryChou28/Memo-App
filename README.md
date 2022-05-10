@@ -1,11 +1,13 @@
 # Memo Web App
-Memo Wep App is an open-source browser app that allows users to add event reminders built with React.js.
+Memo Wep App is an open-source browser app built with React.js that allows users to add event reminders.
 
 ## What will the application do?
 - This application allows the user to add an arbitrary numbr of new events with specified date and time to a memo app.
+
 ![add](memo.gif)
 
 - This application also allows the user to delete any number of events added earlier.
+
 ![delete](memo2.gif)
 
 ## Installation
