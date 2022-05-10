@@ -1,29 +1,14 @@
 # Memo Web App
+Memo Wep App is an open-source browser app that allows users to add event reminders built with React.js.
 
 ## What will the application do?
+- This application allows the user to add an arbitrary numbr of new events with specified date and time to a memo app.
 ![add](memo.gif)
-- The application allows the user to choose between a to-watch movie list or a watched movie list. After selecting a list, the user can add an arbitrary number of movies to the list, remove the added movies, view the list, rate the movies, and the app also tells the user which movie has the highest approval rating on the list.
+
+- This application also allows the user to delete any number of events added earlier.
 ![delete](memo2.gif)
 
-## Who will use it?
-- Any user who loves watching movies!
-
-## Why is this project of interest to you?
-- This project is of interest to me because I enjoy watching movies, and it is often hard to keep track in my head which movies I haven't seen and which ones I have. So designing this movie list app allows me to group them into different lists while keeping track of their approval ratings from Rotten Tomatoes and my own user ratings as well.
-
-## User Stories:
-
-- As a user, I want to be able to add a movie to my movie list
-- As a user, I want to be able to view the movies on my movie list
-- As a user, I want to be able to remove a movie from my movie list
-- As a user, I want to be able to rate a movie on a scale of one to five
-- As a user, I want to be able to see which movie has the highest approval rating on the list
-- As a user, I want to be able to save my movie lists to file
-- As a user, I want to be able to load my movie lists from file
-
-The Teller app is used as a reference for this project
-https://github.students.cs.ubc.ca/CPSC210/TellerApp
-The JsonSerializationDemo app is used as a reference for this project
-https://github.students.cs.ubc.ca/CPSC210/JsonSerializationDemo
-The ListDemo app is used as a reference for this project
-https://docs.oracle.com/javase/tutorial/displayCode.html?code=https://docs.oracle.com/javase/tutorial/uiswing/examples/components/ListDemoProject/src/components/ListDemo.java
+## Installation
+- Git clone: https://github.com/terryChou28/Memo-Web-App.git
+- Run npm start in the development mode.
+- Open http://localhost:3000 to view it in the browser.
