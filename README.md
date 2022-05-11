@@ -4,7 +4,7 @@ Memo Wep App is an open-source browser app built with React.js that allows users
 ## What will the application do?
 - This application allows the user to add an arbitrary numbr of new events with specified date and time to a memo app.
 
-![add](memo.gif)
+![add](memo1.gif)
 
 
 - This application also allows the user to delete any number of events added earlier.
